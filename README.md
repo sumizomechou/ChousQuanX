@@ -1,2 +1,2 @@
 # ChousQuanX
-My own QuantumultX config
+董超凡的QuantumultX规则
