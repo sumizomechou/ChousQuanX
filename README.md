@@ -1,2 +1,2 @@
 # ChousQuanX
-董超凡的QuantumultX规则
+墨染ちょう的QuantumultX规则
